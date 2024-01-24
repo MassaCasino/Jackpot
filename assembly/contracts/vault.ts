@@ -115,7 +115,7 @@ function _launchPool(fee: u8, entreeValue: u64, endPeriod: u64): void {
     1,
     nextPeriod + 20,
     1,
-    100_000_000,
+    10_000_000,
     0,
     0,
     [],
